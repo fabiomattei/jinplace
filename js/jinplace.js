@@ -68,7 +68,8 @@
 	 * @property {loadFunction} loadFunction - Function that is called to load the editing data
 	 */
 
-	var option_list = ['type',
+	var option_list = [
+		'type',
 		'url',
 		'method',
 		'data',
